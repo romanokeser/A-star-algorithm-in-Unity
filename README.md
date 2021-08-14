@@ -14,6 +14,12 @@ Things to be changed:
 -implementing this algorithm into a game.
 #
 
+####Unordered list (-)
+
+- Item A
+- Item B
+- Item C
+
 # Want to contribute? 
 Contact: romanokeser@gmail.com
 
