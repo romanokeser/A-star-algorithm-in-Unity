@@ -9,7 +9,9 @@ A-star path algorithm I made in Unity. Full documentation is available [here](ht
 ![Alt Text](https://upload.wikimedia.org/wikipedia/commons/8/85/Weighted_A_star_with_eps_5.gif)
 
 #
-Things to be changed: optimization and later implementing this algorithm into a game.
+Things to be changed: 
+-optimization, adding *content* and fixing grammar mistakes in the report 
+-implementing this algorithm into a game.
 #
 
 # Want to contribute? 
