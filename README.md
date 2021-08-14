@@ -14,7 +14,7 @@ Things to be changed:
 -implementing this algorithm into a game.
 #
 
-####Unordered list (-)
+Things to be changed: 
 
 - Item A
 - Item B
