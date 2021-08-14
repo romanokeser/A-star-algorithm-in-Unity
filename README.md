@@ -12,7 +12,8 @@ A-star path algorithm I made in Unity. Full documentation is available [here](ht
 
 Things to be changed: 
 
-- optimization, adding *content* and fixing grammar mistakes in the report 
+- optimization of the code
+- adding *content* and fixing grammar mistakes in the report 
 - implementing this algorithm into a game.
 
 
