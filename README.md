@@ -10,7 +10,7 @@ A-star path algorithm I made in Unity. Full documentation is available [here](ht
 
 Things to be changed: optimization and later implementing this algorithm into a game.
 
-#Want to contribute? 
+# Want to contribute? 
 Contact: romanokeser@gmail.com
 
 ## License
