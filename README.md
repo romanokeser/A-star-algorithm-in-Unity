@@ -14,7 +14,7 @@ Things to be changed:
 
 - optimization of the code
 - adding *content* and fixing grammar mistakes in the report 
-- implementing this algorithm into a game.
+- implementing the algorithm into a game
 
 
 # Want to contribute? 
